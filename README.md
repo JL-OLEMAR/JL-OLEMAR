@@ -1,12 +1,19 @@
-###  Hola soy José Luis Olemar 👋
+# Hi, I'm José Luis :wave: :blush: 💻
 
-Mi nombre es José Olemar, soy desarrollador web de Lima-Perú. 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/71868068/101302545-e0a98800-3809-11eb-91a4-a393fbe98a45.jpg" />
+
+Mi nombre es José Olemar, soy desarrollador web, en Lima, Perú. 
 Actualmente estoy buscando trabajo, me encantaría trabajar de forma remota, pero mi objetivo es conseguir un trabajo. 
 
-Actualmente estoy aprendiendo sobre desarrollo de software (HTML, CSS, JavaScript, Angular, React, Vue, Laravel, Symfony, NodeJs, etc.).
-Busco colaborar en Proyectos y aumentar mis conocimientos en Desarrollo de Web. 
+````js
+const JL-OLEMAR = {
+    pronouns: "he" | "him",
+    code: [JavaScript, Typescript, HTML, CSS, PHP],
+    tools: [Angular, ReactJS, VueJS, NodeJS, Laravel, Symfony]
+}
+````
 
-Como llegar a mi
- @Joseluisolemar
-
-Saludos. 
+## You can find me 🌎:
+- [Twitter](https://twitter.com/Joseluisolemar)
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-luis-olemar-vel%C3%A1squez-08707a1b2/) 💼
+- [Email](mailto:joseluis19963@gmail.com)
