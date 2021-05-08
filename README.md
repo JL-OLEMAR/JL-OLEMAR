@@ -7,20 +7,20 @@ I am currently looking for a job, I would love to work remotely, but my goal is 
 
 ````javascript
 const JL-OLEMAR = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, PHP, HTML, CSS],
-   technologies: {
-      frontEnd: {
-        js: ["ReactJS", "Angular", "VueJS"],
-        css: ["Bulma", "Bootstrap", "Sass", "Semantic-UI-React"],
-      },
-      backEnd: {
-        js: ["JavaScript", "Node", "Express"],
-        php: ["Laravel", "Symfony"],
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, PHP, HTML, CSS],
+  technologies: {
+     frontEnd: {
+       js: ["ReactJS", "Angular", "VueJS"],
+       css: ["Bulma", "Bootstrap", "Sass", "Semantic-UI-React"],
+     },
+     backEnd: {
+       js: ["JavaScript", "Node", "Express"],
+       php: ["Laravel", "Symfony"],
+     },
+     databases: ["MongoDB", "mySQL", "SQLServer"],
+  },
+  currentOccupation: ["last year student, open for job opportunities"],
 };
 ````
 
