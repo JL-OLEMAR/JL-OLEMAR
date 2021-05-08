@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/jose-luis-olemar-velasquez/" target="_blank">José Luis</a> :wave: :blush: 💻
+# Hi, I'm <a href="https://www.linkedin.com/in/jose-luis-olemar-velasquez/" target="_blank" rel="noreferrer">José Luis</a> :wave: :blush: 💻
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/71868068/101302545-e0a98800-3809-11eb-91a4-a393fbe98a45.jpg" />
 
@@ -25,15 +25,15 @@ const JL-OLEMAR = {
 ````
 
 ## You can find me 🌎:
-<a href="https://twitter.com/Joseluisolemar" target="_blank">
+<a href="https://twitter.com/Joseluisolemar" target="_blank" rel="noreferrer">
   <img align="left" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jose-luis-olemar-velasquez/" target="_blank">
+<a href="https://www.linkedin.com/in/jose-luis-olemar-velasquez/" target="_blank" rel="noreferrer">
   <img align="left" alt="Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
-<a href="https://github.com/JL-OLEMAR" target="_blank">
+<a href="https://github.com/JL-OLEMAR" target="_blank" rel="noreferrer">
   <img align="left" alt="Github" width="30px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 </a>
-<a href="mailto:joseluis19963@gmail.com" target="_blank">
+<a href="mailto:joseluis19963@gmail.com" target="_blank" rel="noreferrer">
   <img align="left" alt="Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
