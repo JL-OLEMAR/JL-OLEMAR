@@ -11,12 +11,13 @@ const JL-OLEMAR = {
   code: [Javascript, Typescript, PHP, HTML, CSS],
   technologies: {
      frontEnd: {
-       js: ["ReactJS", "Angular", "VueJS"],
-       css: ["Bulma", "Bootstrap", "Sass", "Semantic-UI-React"],
+       js: ["React", "Angular", "Vue"],
+       frameworks: ["Next.js", "Nuxt.js"],
+       css: ["CSS", "Bootstrap", "Tailwind", "Styled Components"],
      },
      backEnd: {
        js: ["JavaScript", "Node", "Express"],
-       php: ["Laravel", "Symfony"],
+       typescript: ["NestJS"]
      },
      databases: ["MongoDB", "mySQL", "SQLServer"],
   },
