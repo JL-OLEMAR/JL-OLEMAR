@@ -10,15 +10,15 @@ const JL-OLEMAR = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   technologies: {
-     frontEnd: {
-       js: ["React", "Angular", "Vue"],
-       css: ["Bootstrap", "Tailwind", "Styled Components", "PostCSS"]
-     },
-     backEnd: {
-       js: ["JavaScript", "Node", "Express"],
-       typescript: ["NestJS"]
-     },
-     databases: ["MongoDB", "mySQL", "SQLServer"]
+    frontEnd: {
+      js: ["React", "Angular", "Vue"],
+      css: ["Bootstrap", "Tailwind", "Styled Components", "PostCSS"]
+    },
+    backEnd: {
+      js: ["JavaScript", "Node", "Express"],
+      typescript: ["NestJS"]
+    },
+    databases: ["MongoDB", "mySQL", "SQLServer"]
   },
   currentOccupation: "last year student, open for job opportunities"
 };
