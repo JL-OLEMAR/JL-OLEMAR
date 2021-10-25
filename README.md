@@ -1,6 +1,6 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/jose-luis-olemar-velasquez/" target="_blank" rel="noopener noreferrer">José Luis</a> :wave: :blush: 💻
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/71868068/101302545-e0a98800-3809-11eb-91a4-a393fbe98a45.jpg" />
+<img width="35%" align="right" class="border-radius:20px; object-fit:cover;" alt="Github" src="https://user-images.githubusercontent.com/71868068/101302545-e0a98800-3809-11eb-91a4-a393fbe98a45.jpg" />
 
 My name is José Olemar, I am a web developer from Lima-Peru.
 I am currently looking for a job, I would love to work remotely, but my goal is to get a job. 
@@ -13,15 +13,15 @@ const JL-OLEMAR = {
      frontEnd: {
        js: ["React", "Angular", "Vue"],
        frameworks: ["Next.js", "Nuxt.js"],
-       css: ["CSS", "Bootstrap", "Tailwind", "Styled Components"],
+       css: ["CSS", "Bootstrap", "Tailwind", "Styled Components"]
      },
      backEnd: {
        js: ["JavaScript", "Node", "Express"],
        typescript: ["NestJS"]
      },
-     databases: ["MongoDB", "mySQL", "SQLServer"],
+     databases: ["MongoDB", "mySQL", "SQLServer"]
   },
-  currentOccupation: ["last year student, open for job opportunities"],
+  currentOccupation: "last year student, open for job opportunities"
 };
 ````
 
