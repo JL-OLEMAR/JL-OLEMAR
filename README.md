@@ -12,7 +12,7 @@ const JL-OLEMAR = {
   technologies: {
      frontEnd: {
        js: ["React", "Angular", "Vue"],
-       css: ["CSS", "Bootstrap", "Tailwind", "Styled Components"]
+       css: ["Bootstrap", "Tailwind", "Styled Components", "PostCSS"]
      },
      backEnd: {
        js: ["JavaScript", "Node", "Express"],
