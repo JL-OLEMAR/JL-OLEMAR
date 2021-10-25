@@ -8,7 +8,7 @@ I am currently looking for a job, I would love to work remotely, but my goal is 
 ````javascript
 const JL-OLEMAR = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, PHP, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS],
   technologies: {
      frontEnd: {
        js: ["React", "Angular", "Vue"],
