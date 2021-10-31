@@ -16,9 +16,9 @@ const JL-OLEMAR = {
     },
     backEnd: {
       js: ["JavaScript", "Node", "Express"],
-      typescript: ["NestJS"]
+      ts: ["NestJS"]
     },
-    databases: ["MongoDB", "mySQL", "SQLServer"]
+    db: ["MongoDB", "mySQL", "SQL", "PostgreSQL"]
   },
   currentOccupation: "last year student, open for job opportunities"
 };
