@@ -15,7 +15,7 @@ const JL-OLEMAR = {
       css: ["Bootstrap", "Tailwind", "Styled Components", "PostCSS"]
     },
     backEnd: {
-      js: ["JavaScript", "Node", "Express"],
+      js: ["Node", "Express", "GraphQL"],
       others: ["Firebase"]
     },
     dbs: ["MongoDB", "MySQL", "SQLServer", "PostgreSQL"]
