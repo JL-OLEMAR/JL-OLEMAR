@@ -15,9 +15,10 @@ const JL-OLEMAR = {
       css: ["Bootstrap", "Tailwind", "Styled Components", "PostCSS"]
     },
     backEnd: {
-      js: ["Node", "Express", "GraphQL"],
+      js: ["NodeJS", "Express", "GraphQL", "REST"],
       others: ["Firebase"]
     },
+    test: ["Jest", "CI", "CD"],
     dbs: ["MongoDB", "MySQL", "SQLServer", "PostgreSQL"]
   },
   currentOccupation: "last year student, open for job opportunities"
