@@ -29,7 +29,7 @@ const JL-OLEMAR = {
 <a href="https://twitter.com/Joseluisolemar" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jose-luis-olemar-velasquez/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/jose-luis-olemar/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://github.com/JL-OLEMAR" target="_blank" rel="noopener noreferrer">
